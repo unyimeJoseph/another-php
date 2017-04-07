@@ -1,0 +1,93 @@
+body{
+	background: white;
+	padding: 5px;
+	margin-left: 40px;
+	padding-top: 10px;
+	font-size: 15px;
+}
+
+h2{
+	color: skyblue;
+	font-size: 40px;
+	font-weight: bold;
+	font-family: century;
+}
+h1{
+	text-align: center;
+	font-size: 10px;
+	font-family: arial;
+	font-weight: bolder;
+}
+
+h3{
+	font-size: 20px;
+	text-align: center;
+	margin-bottom: 60px;
+}
+
+h6{
+	font-size: 2px;
+	padding: 0px;
+	text-align: center;
+	float: right; 
+}
+
+h4{
+	font-size: 20px;
+	font-style: italic;
+	text-align: center;
+	font-family: cambria;
+}
+.jumbotron{
+	background:pink;
+	border: solid;
+	border-color: skyblue;
+	padding-top: 0px;
+	border-top: 1px;
+	margin-bottom: 60px;
+	margin-top: 60px;
+	padding: 0px;
+	text-align: center;
+	height: 400px;
+	font-size: 10px;
+}
+.navbar{
+	border-top: 5px;
+	padding-top: 10px;
+	width: 110%;
+	margin-bottom: 150px;
+	padding-bottom: 65px;
+	margin-top: 0px;
+	background: skyblue;
+	padding: 5px;
+	height: 50px;
+	font-weight: bold;
+	font-size: 15px;
+}
+
+a{
+	padding: 5px;
+	margin-left: 10px;
+	color: none;
+	font-size: 18px;
+}
+
+a:hover{
+	color: skyblue;
+}
+
+.marquee{
+	color: black;
+	font-weight: bold;
+	background: skyblue;
+}
+
+p{
+	padding: 0px;
+	text-align: left;
+}
+
+#navbar{
+	margin-top: 50px;
+	background: pink;
+}
